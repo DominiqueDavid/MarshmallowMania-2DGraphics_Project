@@ -1,5 +1,5 @@
 # MarshmallowMania-3DGraphicsGame
-Single Thread 3D Game
+Single Thread 2D Game
 
 How to run the game locally:
 
